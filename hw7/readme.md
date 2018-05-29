@@ -10,15 +10,21 @@
     renderer决定轨迹的图像等其他属性。
   
   设置图如下：
+  
   光源
+  
   ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E5%85%89%E6%BA%901.png)
   ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E5%85%89%E6%BA%902.png)
   ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E5%85%89%E6%BA%903.png)
+  
   光晕
+  
   ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E5%85%89%E6%99%951.png)
   ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E5%85%89%E6%99%952.png)
   ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E5%85%89%E6%99%953.png)
+  
   星光
+  
   ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E6%98%9F%E5%85%891.png)
   ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E6%98%9F%E5%85%892.png)
   ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E6%98%9F%E5%85%893.png)
