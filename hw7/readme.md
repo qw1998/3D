@@ -1,4 +1,3 @@
-####作业：简单粒子制作
 - 按参考资源要求，制作一个粒子系统，参考资源
 
   如同参考设置生成3个粒子系统，一个为光源，一个为光晕，一个为星光。
@@ -11,7 +10,20 @@
     renderer决定轨迹的图像等其他属性。
   
   设置图如下：
-
+  光源
+  ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E5%85%89%E6%BA%901.png)
+  ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E5%85%89%E6%BA%902.png)
+  ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E5%85%89%E6%BA%903.png)
+  光晕
+  ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E5%85%89%E6%99%951.png)
+  ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E5%85%89%E6%99%952.png)
+  ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E5%85%89%E6%99%953.png)
+  星光
+  ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E6%98%9F%E5%85%891.png)
+  ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E6%98%9F%E5%85%892.png)
+  ![image](https://github.com/qw1998/3D/blob/master/hw7/png/%E6%98%9F%E5%85%893.png)
+  
+  
 - 使用 3.3 节介绍，用代码控制使之在不同场景下效果不一样
 
   代码如下：
@@ -43,4 +55,6 @@
         i++;
     }
 }
-  ```
+```
+
+- 视频地址 
