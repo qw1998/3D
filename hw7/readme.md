@@ -1,3 +1,7 @@
+- 视频地址 
+
+http://v.youku.com/v_show/id_XMzYzMzg0NzM0OA==.html?spm=a2h3j.8428770.3416059.1
+
 - 按参考资源要求，制作一个粒子系统，参考资源
 
   如同参考设置生成3个粒子系统，一个为光源，一个为光晕，一个为星光。
@@ -62,7 +66,3 @@
     }
 }
 ```
-
-- 视频地址 
-
-(地址)[http://v.youku.com/v_show/id_XMzYzMzg0NzM0OA==.html?spm=a2h3j.8428770.3416059.1]
