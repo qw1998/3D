@@ -1,9 +1,11 @@
 GIF：
-![]()
+![](https://github.com/qw1998/3D/blob/master/hw9/pic/20180709_084412.gif)
+视频地址：
+
 P&D 过河游戏智能帮助实现，程序具体要求：
 - 实现状态图的自动生成，如图
 参考师兄博客的状态图
-![]()
+![](https://github.com/qw1998/3D/blob/master/hw9/pic/1.png)
 - 讲解图数据在程序中的表示方法
 在GUI，新增一个NEXT按钮，以实现智能。为了让上下船的动画能执行完整再继续下一步。NextStatus为枚举类型，上船ON，船移动MOVE，和下船OFF；
 ```
