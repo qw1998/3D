@@ -1,6 +1,6 @@
 GIF：
 ![](https://github.com/qw1998/3D/blob/master/hw9/pic/20180709_084412.gif)
-视频地址：
+视频地址：https://v.youku.com/v_show/id_XMzcxMjUwODM0OA==.html?spm=a2hzp.8244740.0.0
 
 P&D 过河游戏智能帮助实现，程序具体要求：
 - 实现状态图的自动生成，如图
